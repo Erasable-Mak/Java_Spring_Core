@@ -17,7 +17,7 @@ Thesis - XML language use in Java Spring Framework
          Autowiring/Autowiring using XML
          Annotations/Autowired Annotations - Stereo type, Qualifier type
          
-Explanation in comments of source code.         
+Explanation of code in comments of source code.         
          
          
          
